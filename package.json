@@ -28,6 +28,9 @@
     "svelte-check": "^2.2.3",
     "svelte-jester": "^1.7.0",
     "svelte-loader": "^3.1.2",
-    "svelte-preprocess": "^4.7.4"
+    "svelte-preprocess": "^4.7.4",
+    "eslint": "^7.30.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "eslint-plugin-svelte3": "^3.1.2"
   }
 }
